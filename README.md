@@ -39,7 +39,7 @@ Databases ( Redis)
 Virtual Machines, containers or "functions as a service"
 Cloud function 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SachinSharma6174/medical_data_prediction/blob/main/architecture_diagram.png)
 
 
 ## Software Components used  
